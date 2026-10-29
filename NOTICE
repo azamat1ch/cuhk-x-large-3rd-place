@@ -1,0 +1,30 @@
+Let the Model Choose Where to Look
+CUHK-X Challenge 2026, Large Model Track solution
+Copyright 2026 Team azamat1ch (CUHK-X Challenge 2026)
+
+The code in this repository is licensed under the Apache License 2.0
+(see LICENSE), except as noted below.
+
+CUHK-X derived content
+
+The following guidance notes (skills) contain naming preferences, counts and
+option strings derived from the CUHK-X training annotations:
+
+  - prompts/investigators/skills/objects/SKILL.md
+  - prompts/investigators/skills/objects/references/training-distribution.md
+  - prompts/investigators/skills/emotion-comparison/references/group-options.md
+
+The following guidance notes use the CUHK-X action and manner vocabularies and
+qualitative patterns seen in the training labels:
+
+  - prompts/investigators/emotion.md
+  - prompts/investigators/skills/action-cues/ (all files)
+  - prompts/investigators/skills/emotion-comparison/references/manner-distinctions.md
+  - prompts/investigators/skills/emotion-comparison/references/matched-pace.md
+
+The CUHK-X dataset is for non-commercial research use only, may not be
+redistributed, and requires attribution (cite the CUHK-X paper and acknowledge
+the CUHK AIoT Lab). The dataset-derived content in the files listed above is
+provided under CC BY-NC 4.0. It is not covered by the Apache License 2.0.
+
+No CUHK-X dataset media or annotation files are included in this repository.

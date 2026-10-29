@@ -1,0 +1,7 @@
+.env
+*.work/
+__pycache__/
+.venv/
+*.csv
+*.csv.tmp
+data/

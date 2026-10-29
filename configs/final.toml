@@ -1,0 +1,6 @@
+model = "gpt-6-astra"
+reasoning = "xhigh"
+workers = 3
+preparation_workers = 2
+normal_timeout_s = 900
+emotion_timeout_s = 1200
